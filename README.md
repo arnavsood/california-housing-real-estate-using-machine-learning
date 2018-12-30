@@ -1,4 +1,4 @@
-# california-housing-real-estate-using-machine-learning
+# california-housing-real-estate-prices-using-machine-learning
 machine learning approach to predict real estate prices
 California House’s Price Prediction (ML) :
 The data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data.
